@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Local secrets/config
+.env
+.streamlit/secrets.toml
+
+# Local database artifacts
+*.db
+*.sqlite
+*.sqlite3
+
+# Local gcloud state
+.gcloud/
+
+# Notebooks / temp
+.ipynb_checkpoints/

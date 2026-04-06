@@ -1,0 +1,16 @@
+.git
+.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+.gcloud/
+tests/
+test.ipynb
+*.db
+*.sqlite
+*.sqlite3
+stockpilot.db

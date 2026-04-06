@@ -1,0 +1,13 @@
+streamlit
+streamlit-option-menu
+pandas
+google-cloud-bigquery
+google-generativeai
+db-dtypes
+plotly
+geopy
+prophet
+requests
+SQLAlchemy
+psycopg2-binary
+pytest
