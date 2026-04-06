@@ -1,3 +1,5 @@
+#created with love by Sidhant Chaku
+
 import math
 from statistics import NormalDist
 
